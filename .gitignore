@@ -1,0 +1,7 @@
+﻿# Keep this repo software-distribution only (no application source)
+*
+!README.md
+!RELEASE_NOTES.md
+!.gitignore
+!media/
+!media/**
